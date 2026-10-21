@@ -1,0 +1,2 @@
+# Large result archives: track with git LFS if they are kept in git (otherwise archive them, e.g. on Zenodo)
+results/*.npz filter=lfs diff=lfs merge=lfs -text

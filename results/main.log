@@ -1,0 +1,4 @@
+rho=0.8: 730 cases in 298s
+rho=0.5: 730 cases in 303s
+rho=0.2: 730 cases in 301s
+saved ../results/main.npz

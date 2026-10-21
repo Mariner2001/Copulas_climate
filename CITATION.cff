@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this code or these results, please cite the paper and this archive."
+title: "Code and results for: Separating marginal and dependence skill in machine-learning weather ensembles"
+authors:
+  - family-names: "[Family name]"
+    given-names: "[Given name]"
+    affiliation: "[Affiliation]"
+version: "1.0.0"
+date-released: "[YYYY-MM-DD]"
+license: "[licence of the code, e.g. BSD-3-Clause]"
+repository-code: "[URL]"
+doi: "[Zenodo DOI]"
