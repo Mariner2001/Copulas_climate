@@ -1,8 +1,8 @@
 # Separating marginal and dependence skill in machine-learning weather ensembles
 
 Code, input data and results for the paper *Separating marginal and dependence skill in
-machine-learning weather ensembles: a copula framework, with a simulation study for regional
-wind power* (\[authors], \[year]).
+machine-learning weather ensembles: a simulation study for regional
+wind power*.
 
 ## Contents
 
